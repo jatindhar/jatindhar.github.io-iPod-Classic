@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/iPod-Classic/static/css/main.7a277625.chunk.css",
+    "main.js": "/iPod-Classic/static/js/main.6606b489.chunk.js",
+    "main.js.map": "/iPod-Classic/static/js/main.6606b489.chunk.js.map",
+    "runtime-main.js": "/iPod-Classic/static/js/runtime-main.6904ec8c.js",
+    "runtime-main.js.map": "/iPod-Classic/static/js/runtime-main.6904ec8c.js.map",
+    "static/js/2.27b9ed72.chunk.js": "/iPod-Classic/static/js/2.27b9ed72.chunk.js",
+    "static/js/2.27b9ed72.chunk.js.map": "/iPod-Classic/static/js/2.27b9ed72.chunk.js.map",
+    "index.html": "/iPod-Classic/index.html",
+    "precache-manifest.7af5e11a6838be945de88a5ea7bbb009.js": "/iPod-Classic/precache-manifest.7af5e11a6838be945de88a5ea7bbb009.js",
+    "service-worker.js": "/iPod-Classic/service-worker.js",
+    "static/css/main.7a277625.chunk.css.map": "/iPod-Classic/static/css/main.7a277625.chunk.css.map",
+    "static/js/2.27b9ed72.chunk.js.LICENSE.txt": "/iPod-Classic/static/js/2.27b9ed72.chunk.js.LICENSE.txt",
+    "static/media/Alan Walker ‒ The Spectre ( ).mp3": "/iPod-Classic/static/media/Alan Walker ‒ The Spectre ( ).29db525e.mp3",
+    "static/media/K-391.mp3": "/iPod-Classic/static/media/K-391.1836a35e.mp3",
+    "static/media/Unknown Brain - Why Do I ft. Bri Tolani.mp3": "/iPod-Classic/static/media/Unknown Brain - Why Do I ft. Bri Tolani.5f52455b.mp3",
+    "static/media/earth.jpg": "/iPod-Classic/static/media/earth.ab7c69c2.jpg",
+    "static/media/game.jpg": "/iPod-Classic/static/media/game.ec42ead0.jpg",
+    "static/media/jatin.jpeg": "/iPod-Classic/static/media/jatin.3f6adda3.jpeg",
+    "static/media/jupiter.png": "/iPod-Classic/static/media/jupiter.494ed9c0.png",
+    "static/media/moon.jpg": "/iPod-Classic/static/media/moon.afb8461f.jpg",
+    "static/media/settings.png": "/iPod-Classic/static/media/settings.5d8a2383.png",
+    "static/media/spectre.jpg": "/iPod-Classic/static/media/spectre.b243b63f.jpg",
+    "static/media/whydoi.jpg": "/iPod-Classic/static/media/whydoi.6d555f17.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6904ec8c.js",
+    "static/js/2.27b9ed72.chunk.js",
+    "static/css/main.7a277625.chunk.css",
+    "static/js/main.6606b489.chunk.js"
+  ]
+}
